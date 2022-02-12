@@ -1,0 +1,4 @@
+site_name: Python GitHub Actions (actions-py)
+
+theme:
+  name: material
